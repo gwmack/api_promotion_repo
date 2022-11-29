@@ -3,7 +3,6 @@
   layout: newspaper
   preferred_viewer: dashboards-next
   description: ''
-  preferred_slug: 5i3Aa0VK6spqsCpZTf1mI0
   elements:
   - title: Top 50 Brands updated via Github part 2 11 29
     name: Top 50 Brands updated via Github part 2
