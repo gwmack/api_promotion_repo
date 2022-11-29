@@ -1,5 +1,5 @@
 - dashboard: top_50_brands
-  title: Top 50 Brands
+  title: Top 50 Brands updated 11 28
   layout: newspaper
   preferred_viewer: dashboards-next
   description: ''
